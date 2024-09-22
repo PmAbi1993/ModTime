@@ -12,6 +12,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "iTunesArtwork@2x.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,9 +24,25 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "iTunesArtwork@1x.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "iTunesArtwork@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
     }
   ],
   "info" : {
